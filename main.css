@@ -342,6 +342,7 @@ border: none;
                  margin-bottom: 65px;
             }   
 .product__title{
+    width: auto;
     margin-bottom: 24px;
     padding-top: 109px;
         max-width: 357px;
@@ -350,7 +351,8 @@ border: none;
     display: none;
 }
 .product__section{
-    width: 375px;
+    max-width: 375px;
+    width: auto;
 }
 .product__content{
     display: block;
