@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Безкоштовна упаковка Biotrue® ONEday",
+    "text": "Єдині лінзи із вологовмісткістю, як у наших очей",
+    "image": "./public/images/product/1.png",
+    "small_img": "./public/images/product/small-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Безкоштовна упаковка Bausch+Lomb ULTRA®  ",
+    "text": "Зберігають 95% вологи навіть після 16 годин використання",
+    "image": "./public/images/product/2.png",
+    "small_img": "./public/images/product/small-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Безкоштовна упаковка SofLens® Daily Disposable",
+    "text": "Висока якість зору завдяки асферичній оптиці",
+    "small_img": "./public/images/product/small-3.png",
+    "image": "./public/images/product/3.png"
+  }
+]
